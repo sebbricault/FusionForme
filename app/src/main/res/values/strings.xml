@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FusionForme</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_profil">ProfilActivity</string>
+    <string name="title_activity_form_profil">FormProfilActivity</string>
+    <string name="title_activity_home_profil">HomeProfilActivity</string>
+    <string name="title_activity_add_entrainement">addEntrainementActivity</string>
+</resources>
